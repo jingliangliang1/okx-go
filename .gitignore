@@ -34,3 +34,8 @@ Thumbs.db
 .env
 .env.local
 .env.test
+
+main.go
+.env
+*.key
+*.secret
